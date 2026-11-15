@@ -24,14 +24,4 @@ Analysis of monthly unemployment in Indian states (May 2019 – Jun 2020), with 
 - Largest jumps: **Puducherry, Jharkhand, Tamil Nadu, Bihar**. Structurally high even before Covid: **Tripura, Haryana, Himachal Pradesh**.
 - Seasonality cannot be established with only 14 months of data.
 
-## Charts
-![National trend](images/02_national_trend.png)
-![Rural vs Urban](images/04_rural_urban.png)
-![Top states](images/05_top_states.png)
-![State heatmap](images/06_state_heatmap.png)
 
-## Run it
-```bash
-pip install -r requirements.txt
-jupyter notebook Unemployment_Analysis.ipynb
-```
