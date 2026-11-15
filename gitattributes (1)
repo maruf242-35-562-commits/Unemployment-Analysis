@@ -1,2 +1,0 @@
-# Exclude notebooks from GitHub language statistics so the real Python code is shown
-*.ipynb linguist-detectable=false
